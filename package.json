@@ -1,0 +1,16 @@
+{
+  "name": "count-code-lines",
+  "version": "1.0.0",
+  "description": "A script that counts lines of code for a project",
+  "main": "LineCount.js",
+  "scripts": {
+    "start": "node ./LineCount.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "static",
+    "code-lines"
+  ],
+  "author": "Ding.Wang",
+  "license": "ISC"
+}
